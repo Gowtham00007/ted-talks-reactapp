@@ -1,0 +1,40 @@
+.App {
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+}
+body {
+  font-family: "Lato", sans-serif;
+  background-color: #efefef;
+}
+
+button {
+  cursor: pointer;
+  background: #e5e7eb;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;
+  border: 1px solid black;
+  margin: 1rem 2rem;
+}
+li {
+  text-align: left;
+  list-style: none;
+  padding: 1rem;
+  border: 2px solid #d1d5db;
+  width: 80%;
+  margin: 1rem 0rem;
+  border-radius: 0.5rem;
+}
+#name {
+  font-size: x-large;
+  padding: 0.5rem;
+}
+#rating {
+  font-weight: 1000;
+  padding: 0.2rem;
+  color: rgb(151, 81, 11);
+}
+#discription {
+  font-size: small;
+  padding: 0.5rem;
+}
