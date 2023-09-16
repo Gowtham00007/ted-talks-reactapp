@@ -14,6 +14,13 @@ const tedtalksLists = {
       rating: "4.4 out of 5 stars",
       discription:
         "Kevin Ashton, a pioneer in the field of IoT (Internet of Things), talks about the interconnected world of everyday objects and devices that communicate with each other through the internet. He discusses the potential benefits, challenges, and implications of this technology for our lives and industries."
+    },
+
+    {
+      name: "How AI is making it easier to diagnose disease",
+      rating: "4.8 out of 5 stars",
+      discription:
+        " Pratik Shah discusses how artificial intelligence is revolutionizing healthcare by improving disease diagnosis and prediction. He explores the potential for AI to enhance medical decision-making and ultimately save lives."
     }
   ],
   Entertainment: [
@@ -28,6 +35,13 @@ const tedtalksLists = {
       rating: " 4.7 out of 5 stars",
       discription:
         "Stuart Brown, a psychiatrist and founder of the National Institute for Play, explores the essential role of play in human development and creativity. He discusses how play shapes our brains, fosters innovation, and contributes to our overall well-being, emphasizing that it's not just for children."
+    },
+
+    {
+      name: "The Power of Vulnerability",
+      rating: "4.9 out of 5 stars",
+      discription:
+        "While not directly related to entertainment, this talk by Brené Brown delves into the human experience of vulnerability and connection. It has been widely appreciated for its insights into the human condition and has resonated with many, including those in the entertainment industry"
     }
   ],
   Design: [
@@ -42,6 +56,13 @@ const tedtalksLists = {
       rating: "4.6 out of 5 stars",
       discription:
         "Sarah Lewis, an art historian and curator, explores the concept of the near win in creative pursuits. She discusses how the pursuit of mastery and the embrace of setbacks and almost-successes can lead to greater innovation and growth in the world of design and other creative endeavors."
+    },
+
+    {
+      name: "The Beauty of Human Skin in Every Color",
+      rating: "4.4 out of 5 stars",
+      discription:
+        " Angélica Dass, a photographer and creator of the Humanæ project, explores the concepts of identity, race, and beauty through her art. She discusses how she uses photography and design to challenge preconceived notions about skin color and redefine our understanding of human diversity."
     }
   ]
   // const tedtaks = Object.keys(tedtalksLists);
