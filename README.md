@@ -4,10 +4,10 @@ Discover inspiring ideas with our TedTalks Recommender – your gateway to thoug
 
 
 # How to use:
- - Select 
- - know the meaning
- - view the meaning of emoji by clicking on it too.
- - Note : emojis meanings are shown as per the database provided .
+ - Select genre
+ - view options
+ - see ratings , read discription about the ted talks
+   
 # Programing languges 
  - html
  - css
